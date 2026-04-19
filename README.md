@@ -57,7 +57,7 @@ Currently working on improving my skills in web development and software enginee
 
 ## 📫 Contact Me
 
-* Email: [your-email@example.com](mailto:chismanemmans@gmail.com)
+* Email: [chismanemmans@gmail.com](mailto:chismanemmans@gmail.com)
 * LinkedIn: your-linkedin-profile
 
 ---
