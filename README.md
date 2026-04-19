@@ -58,7 +58,7 @@ Currently working on improving my skills in web development and software enginee
 ## 📫 Contact Me
 
 * Email: [chismanemmans@gmail.com](mailto:chismanemmans@gmail.com)
-* LinkedIn: your-linkedin-profile
+* LinkedIn: [chisman-linkedin-profile](https://www.linkedin.com/in/chisom-emmanuel-bb183038a/)
 
 ---
 
