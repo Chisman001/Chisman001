@@ -1,87 +1,122 @@
-# 👋 Hi, I'm Chisom Emmanuel
+# Hi there, I'm Chisom Emmanuel 👋
 
-💻 Computer Science Student at Landmark Univer
-🚀 Aspiring Data Scientist and Engineer
-📍 Based in Nigeria
+### Computer Science Student | Full-Stack Developer | Aspiring Data Scientist & ML Engineer
 
----
+I'm a Computer Science student at Landmark University, Nigeria, with a passion for building technology that solves real-world problems. My interests span across software engineering, data science, machine learning, and artificial intelligence.
 
-## 🧠 About Me
-
-I am a passionate developer focused on building real-world applications that solve business and everyday problems.
-Currently working on improving my skills in web development and software engineering while learning machine learning and data science.
+Over the past year, I've built and deployed multiple web applications, explored backend development, and started my journey into data science and machine learning. I enjoy learning by building and continuously challenging myself with new technologies.
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 About Me
 
-* 🏢 Business Management Application and usable ecommerce page
-* 🗂 Chissss Social whispering messaging system
-* 🌦 Weather Forecast App
-
+* 🎓 Computer Science student at Landmark University.
+* 💻 Building full-stack applications with modern web technologies.
+* 📊 Learning Data Science, Machine Learning, and AI.
+* 🌱 Currently exploring predictive analytics, clustering, and model deployment.
+* 🔍 Interested in Software Engineering, AI, Data Science, and Cloud Technologies.
+* ♟️ I enjoy playing chess, volleyball, and football.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**
+### Frontend
 
-* HTML
-* Tailwind
+* HTML5
+* CSS3
+* JavaScript (ES6+)
 * TypeScript
-* Nextjs
+* React
+* Next.js
+* Tailwind CSS
 
-**Backend (Learning & Building):**
+### Backend & Databases
 
 * Node.js
+* Express.js
+* PostgreSQL
+* Supabase
+* Neon
 
-**Tools & Others:**
+### Data Science & Machine Learning
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+* Jupyter Notebook
+* Streamlit
+
+### Tools & Platforms
 
 * Git & GitHub
 * VS Code
 * Vercel
-* Postgress SQL
-* Neon
-* Cloudinary 
+* Cloudinary
+* Postman
+* Canva
+* Figma
 
 ---
 
-## 📈 Goals
+## 🚀 Current Projects
 
-* Build scalable full-stack applications
-* Contribute to open source
-* Land internships and gain real-world experience
-* Master Machine learning and data science
+* **Business Management Platform** – A complete business management system with analytics and e-commerce capabilities.
+* **Chissss Social** – A social whispering/messaging platform.
+* **House Price Prediction App** – Machine learning application deployed with Streamlit.
+* **Rate-Limited Product API** – Backend API demonstrating authentication and rate limiting.
+* **Sales Analytics Dashboard** – Interactive dashboard for data analysis and visualization.
 
 ---
 
-## 📫 Contact Me
+## 📈 What I'm Currently Learning
+
+* Machine Learning Algorithms
+* Data Analysis & Visualization
+* Backend System Design
+* Artificial Intelligence Concepts
+* Cloud Deployment & DevOps
+* Scalable Software Architecture
+
+---
+
+## 🎯 Goals for 2026
+
+* Build impactful full-stack and AI-powered applications.
+* Contribute to open-source projects.
+* Secure internships and gain industry experience.
+* Master Machine Learning and Data Science.
+* Publish technical articles and share my learning journey.
+* Collaborate with developers worldwide.
+
+---
+
+## 📊 GitHub Stats
+
+```text
+Languages: JavaScript • TypeScript • Python • SQL
+
+Interests:
+- Full-Stack Development
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Software Engineering
+```
+
+---
+
+## 📫 Connect With Me
 
 * Email: [chismanemmans@gmail.com](mailto:chismanemmans@gmail.com)
-* LinkedIn: [chisman-linkedin-profile](https://www.linkedin.com/in/chisom-emmanuel-bb183038a/)
+* LinkedIn: [www.linkedin.com/in/chisom-emmanuel-bb183038a](http://www.linkedin.com/in/chisom-emmanuel-bb183038a)
 
 ---
 
-## ⚡ Fun Fact
+> "Learning never exhausts the mind. Every project is an opportunity to grow."
 
-I enjoy playing chess, volleyball, and football.
+⭐️ Thanks for visiting my profile! Feel free to check out my repositories and connect with me.
 
----
-
-⭐️ From Chisman001
-
-
-<!--
-**Chisman001/Chisman001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+— Chisman001
